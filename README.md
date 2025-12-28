@@ -13,19 +13,19 @@ My journey has led me to develop a strong passion for cybersecurity, particularl
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Virtual Lab Environment Setup                   | <a href="https://github.com/samgarfoot/Kali-Linux/tree/main">Kali Linux VM</a>|
-| Phishing Analysis                               | <a href="https://google.com">Detection Lab</a>|
-| Traffic Analysis                              | SOC Automation Lab|
-|                                                 | SOC Automation Lab|
+| Phishing Analysis                               | <a href="https://github.com/samgarfoot/Email-Threat-Analysis-Project/tree/main">Email Threat Analysis Project</a>|
 | Credential Harvesting Attack Recognition        | SOC Automation Lab|
+| Traffic Analysis                                | SOC Automation Lab|
+
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+<img src="https://img.shields.io/badge/-Kali_Linux-000000?&style=for-the-badge&logo=kali-linux&logoColor=white" />
+ <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    
 </div>
 
 ### Endpoint
