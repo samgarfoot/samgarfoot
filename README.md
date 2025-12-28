@@ -8,16 +8,15 @@ I’m an aspiring cybersecurity professional with a strong interest in security 
 My journey has led me to develop a strong passion for cybersecurity, particularly in understanding how attackers leverage tools and techniques to compromise systems. I am eager to transition into the field and am actively pursuing an entry-level role in a Security Operations Center (SOC) as a Junior Security Analyst, where I can further enhance my skills.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Virtual Lab Environment Setup                   | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Virtual Lab Environment Setup                   | <a href="https://github.com/samgarfoot/Kali-Linux/tree/main">Kali Linux VM</a>|
+| Phishing Analysis                               | <a href="https://google.com">Detection Lab</a>|
+| Traffic Analysis                              | SOC Automation Lab|
+|                                                 | SOC Automation Lab|
+| Credential Harvesting Attack Recognition        | SOC Automation Lab|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
