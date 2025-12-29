@@ -22,7 +22,10 @@ My journey has led me to develop a strong passion for cybersecurity, particularl
 
 ### Network
 <div>
-<img src="https://img.shields.io/badge/-Kali_Linux-000000?&style=for-the-badge&logo=kali-linux&logoColor=white" />
+<a href="https://github.com/samgarfoot/Kali-Linux/tree/main" target="_blank">
+  <img src="https://img.shields.io/badge/-Kali_Linux-000000?&style=for-the-badge&logo=kali-linux&logoColor=white" />
+</a>
+ <img src="https://img.shields.io/badge/-OpenVPN-FF6A00?&style=for-the-badge&logo=openvpn&logoColor=white" />
  <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     
 </div>
