@@ -19,7 +19,6 @@ My journey has led me to develop a strong passion for cybersecurity, particularl
 
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
@@ -43,10 +42,13 @@ My journey has led me to develop a strong passion for cybersecurity, particularl
 
 ## Certifications
 
-<div>
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-</div>
+<a  href="https://www.credly.com/badges/ed9157a1-edbc-4d8d-882c-bca225485649/linked_in_profile"  target="_blank">
+  <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<a href="https://www.credly.com/badges/53b053a2-9cde-4b8d-b3b7-2e72ee3ba760/public_url" target="_blank">
+  <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+</a>
+
+
 
 ## Projects
 - Kali Linux VM
