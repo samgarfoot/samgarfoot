@@ -14,8 +14,8 @@ My journey has led me to develop a strong passion for cybersecurity, particularl
 |-----------------------------------------------|----------------------------|
 | Virtual Lab Environment Setup                   | <a href="https://github.com/samgarfoot/Kali-Linux/tree/main">Kali Linux VM</a>|
 | Phishing Analysis                               | <a href="https://github.com/samgarfoot/Email-Threat-Analysis-Project/tree/main">Email Threat Analysis Project</a>|
-| Credential Harvesting Attack Recognition        | SOC Automation Lab|
-| Traffic Analysis                                | SOC Automation Lab|
+| Credential Harvesting Attack Recognition        | <a href="https://github.com/samgarfoot/Phishing-Campaign/tree/main">Phishing Campaign</a>|
+| Traffic Analysis                                | <a href="https://github.com/samgarfoot/Phishing-Campaign/tree/main">Phishing Campaign</a>|
 
 
 ## Tools
@@ -53,3 +53,4 @@ My journey has led me to develop a strong passion for cybersecurity, particularl
 ## Projects
 - Kali Linux VM
 - Email Threat Analysis Project
+- Phishing Campaign
