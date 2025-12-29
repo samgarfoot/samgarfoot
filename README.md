@@ -27,14 +27,13 @@ My journey has led me to develop a strong passion for cybersecurity, particularl
 <a href="https://github.com/samgarfoot/Kali-Linux/tree/main" target="_blank">
   <img src="https://img.shields.io/badge/-OpenVPN-FF6A00?&style=for-the-badge&logo=openvpn&logoColor=white" />
  </a>
-    
-</div>
+  
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
+### Offensive
+<a href="https://github.com/samgarfoot/Phishing-Campaign/tree/main" target="_blank">
+  <img src="https://img.shields.io/badge/-Zphisher-4CAF50?&style=for-the-badge&logo=zap&logoColor=white" />
+</a>
+
 
 ### SIEM
 <div>
