@@ -19,15 +19,15 @@ My journey has led me to develop a strong passion for cybersecurity, particularl
 
 ## Tools
 
+### AI Tooling
+
+
+<img src="https://img.shields.io/badge/-ChatGPT-74AA9C?&style=for-the-badge&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/-Claude-CC9B7A?&style=for-the-badge&logo=anthropic&logoColor=white" />
+
+
 ### Network
   
-<a href="https://github.com/samgarfoot/Kali-Linux/tree/main" target="_blank">
-  <img src="https://img.shields.io/badge/-Kali_Linux-000000?&style=for-the-badge&logo=kali-linux&logoColor=white" />
-</a>
-<br>
-<a href="https://github.com/samgarfoot/Kali-Linux/tree/main" target="_blank">
-  <img src="https://img.shields.io/badge/-OpenVPN-FF6A00?&style=for-the-badge&logo=openvpn&logoColor=white" />
- </a>
+<a href="https://github.com/samgarfoot/Kali-Linux/tree/main" target="_blank"><img src="https://img.shields.io/badge/-Kali_Linux-000000?&style=for-the-badge&logo=kali-linux&logoColor=white" /></a>&nbsp;<a href="https://github.com/samgarfoot/Kali-Linux/tree/main" target="_blank"><img src="https://img.shields.io/badge/-OpenVPN-FF6A00?&style=for-the-badge&logo=openvpn&logoColor=white" /></a>
   
 
 ### Offensive
