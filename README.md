@@ -31,33 +31,24 @@ My journey has led me to develop a strong passion for cybersecurity, particularl
   
 
 ### Offensive
-<a href="https://github.com/samgarfoot/Phishing-Campaign/tree/main" target="_blank">
-  <img src="https://img.shields.io/badge/-Zphisher-4CAF50?&style=for-the-badge&logo=zap&logoColor=white" />
+<a href="https://github.com/samgarfoot/Phishing-Campaign/tree/main" target="_blank"><img src="https://img.shields.io/badge/-Zphisher-4CAF50?&style=for-the-badge&logo=zap&logoColor=white" />
 </a>
 
 
 ### Defensive
 
-<a href="https://github.com/samgarfoot/Email-Threat-Analysis-Project/tree/main" target="_blank">
-  <img src="https://img.shields.io/badge/-Whois-FFA500?&style=for-the-badge&logoColor=white" />
+<a href="https://github.com/samgarfoot/Email-Threat-Analysis-Project/tree/main" target="_blank"><img src="https://img.shields.io/badge/-Whois-FFA500?&style=for-the-badge&logoColor=white" /></a>&nbsp; <a href="https://github.com/samgarfoot/Email-Threat-Analysis-Project/tree/main" target="_blank"><img src="https://img.shields.io/badge/-ConvertCSV-ffffff?&style=for-the-badge&logoColor=000000" /></a>&nbsp; <a href="https://github.com/samgarfoot/Email-Threat-Analysis-Project/tree/main" target="_blank"><img src="https://img.shields.io/badge/-Message_Header_Toolbox-006400?&style=for-the-badge&logoColor=white" />
 </a>
-<br>
-<a href="https://github.com/samgarfoot/Email-Threat-Analysis-Project/tree/main" target="_blank">
-  <img src="https://img.shields.io/badge/-ConvertCSV-ffffff?&style=for-the-badge&logoColor=000000" />
-</a>
-<br>
-<a href="https://github.com/samgarfoot/Email-Threat-Analysis-Project/tree/main" target="_blank">
-  <img src="https://img.shields.io/badge/-Message_Header_Toolbox-006400?&style=for-the-badge&logoColor=white" />
+
+### Programming Languages
+
+<a href="https://github.com/samgarfoot/P-Scan/tree/main" target="_blank">
+  <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
 </a>
 
 ## Certifications
 
-<a href="https://www.credly.com/badges/ed9157a1-edbc-4d8d-882c-bca225485649/linked_in_profile" target="_blank">
-  <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-</a>
-<br>
-<a href="https://www.credly.com/badges/53b053a2-9cde-4b8d-b3b7-2e72ee3ba760/public_url" target="_blank">
-  <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<a href="https://www.credly.com/badges/ed9157a1-edbc-4d8d-882c-bca225485649/linked_in_profile" target="_blank"><img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>&nbsp; <a href="https://www.credly.com/badges/53b053a2-9cde-4b8d-b3b7-2e72ee3ba760/public_url" target="_blank"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </a>
 
 
@@ -69,3 +60,4 @@ My journey has led me to develop a strong passion for cybersecurity, particularl
 - Kali Linux VM
 - Email Threat Analysis Project
 - Phishing Campaign
+- Port Scanner
