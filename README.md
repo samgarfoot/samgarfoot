@@ -1,7 +1,7 @@
 # Hello, I'm Sam
 <a href="https://www.linkedin.com/in/sam-garfoot001/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I’m an aspiring cybersecurity professional with a strong interest in security fundamentals, networking, and hands-on labs. I recently earned my CompTIA Network+ & Security+ certification and enjoy building skills through projects, labs, and continuous learning.
+I’m an aspiring cybersecurity professional with a strong interest in security fundamentals, networking, and hands-on labs. I recently earned my CompTIA Network+, Security+ and CySA+ certifications and enjoy building skills through projects, labs, and continuous learning.
 
 ## Objective
 
