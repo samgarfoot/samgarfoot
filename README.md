@@ -12,7 +12,7 @@ My journey has led me to develop a strong passion for cybersecurity, particularl
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Virtual Lab Environment Setup                   | <a href="https://github.com/samgarfoot/Kali-Linux/tree/main">Kali Linux VM</a>|
+| Virtual Home-Lab Environment Setup                   | <a href="https://github.com/samgarfoot/Home-Lab"> Home Lab VM</a>|
 | Phishing Analysis                               | <a href="https://github.com/samgarfoot/Email-Threat-Analysis-Project/tree/main">Email Threat Analysis Project</a>|
 | Credential Harvesting Attack Recognition        | <a href="https://github.com/samgarfoot/Phishing-Campaign/tree/main">Phishing Campaign</a>|
 | Python Programming                              | <a href="https://github.com/samgarfoot/P-Scan/tree/main">Port Scanner Project</a>|
