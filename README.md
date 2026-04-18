@@ -5,7 +5,7 @@ I’m an aspiring cybersecurity professional with a strong interest in security 
 
 ## Objective
 
-My journey has led me to develop a strong passion for cybersecurity, particularly in understanding how attackers leverage tools and techniques to compromise systems. I am eager to transition into the field and am actively pursuing an entry-level role in a Security Operations Center (SOC) as a Junior Security Analyst, where I can further enhance my skills.
+My journey has led me to develop a strong passion for cybersecurity, particularly in understanding how attackers leverage tools and techniques to compromise systems. I am eager to transition into the field and am actively pursuing an entry-level role where I can further enhance my skills and develop my career in cybersecurity.
 
 ## Skills
 
