@@ -12,7 +12,8 @@ My journey has led me to develop a strong passion for cybersecurity, particularl
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Virtual Home-Lab Environment Setup                   | <a href="https://github.com/samgarfoot/Home-Lab"> Home Lab VM</a>|
+| Virtual Home-Lab Environment Setup             | <a href="https://github.com/samgarfoot/Home-Lab"> Home Lab VM</a>|
+|Log & Incident Analysis                         | <a href="https://github.com/samgarfoot/Cyber-Security-Monitoring-Incident-Analysis-Lab#cyber-security-monitoring--incident-analysis-lab">Cyber Security Monitoring & Incident Analysis Lab</a> 
 | Phishing Analysis                               | <a href="https://github.com/samgarfoot/Email-Threat-Analysis-Project/tree/main">Email Threat Analysis Project</a>|
 | Credential Harvesting Attack Recognition        | <a href="https://github.com/samgarfoot/Phishing-Campaign/tree/main">Phishing Campaign</a>|
 | Python Programming                              | <a href="https://github.com/samgarfoot/P-Scan/tree/main">Port Scanner Project</a>|
@@ -58,6 +59,7 @@ My journey has led me to develop a strong passion for cybersecurity, particularl
 
 ## Projects
 - Virtual Home Lab
+- Cyber Security Monitoring & Incident Analysis Lab
 - Email Threat Analysis Project
 - Phishing Campaign
 - Port Scanner
