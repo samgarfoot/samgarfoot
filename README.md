@@ -16,7 +16,7 @@ My journey has led me to develop a strong passion for cybersecurity, particularl
 |Log & Incident Analysis                         | <a href="https://github.com/samgarfoot/Cyber-Security-Monitoring-Incident-Analysis-Lab#cyber-security-monitoring--incident-analysis-lab">Cyber Security Monitoring & Incident Analysis Lab</a> 
 | Phishing Analysis                               | <a href="https://github.com/samgarfoot/Email-Threat-Analysis-Project/tree/main">Email Threat Analysis Project</a>|
 | Credential Harvesting Attack Recognition        | <a href="https://github.com/samgarfoot/Phishing-Campaign/tree/main">Phishing Campaign</a>|
-| Python Programming / Scripting                              | <a href="https://github.com/samgarfoot/P-Scan/tree/main">Port Scanner Project</a>|
+| Python Programming / Scripting                              | <a href="https://github.com/samgarfoot/Coding-Projects/tree/main">Coding Projects</a>|
 
 ## Tools
 
