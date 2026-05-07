@@ -62,4 +62,4 @@ My journey has led me to develop a strong passion for cybersecurity, particularl
 - Cyber Security Monitoring & Incident Analysis Lab
 - Email Threat Analysis Project
 - Phishing Campaign
-- Port Scanner
+- Python Projects
