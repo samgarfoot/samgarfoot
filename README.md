@@ -18,7 +18,6 @@ My journey in IT service management has given me a deep understanding of how tec
 | Infrastructure as Code (Terraform) | <a href="https://github.com/samgarfoot/aws-hybrid-infrastructure-lab">AWS Hybrid Infrastructure Lab</a>|
 | SIEM & Security Monitoring (Elastic Stack) | <a href="https://github.com/samgarfoot/aws-hybrid-infrastructure-lab">AWS Hybrid Infrastructure Lab</a>|
 | IAM & Cloud Security Hardening | <a href="https://github.com/samgarfoot/aws-hybrid-infrastructure-lab">AWS Hybrid Infrastructure Lab</a>|
-| Security Automation (SOAR) | <a href="https://github.com/samgarfoot/aws-hybrid-infrastructure-lab">AWS Hybrid Infrastructure Lab</a>|
 | Phishing Analysis | <a href="https://github.com/samgarfoot/Email-Threat-Analysis-Project/tree/main">Email Threat Analysis Project</a>|
 | Credential Harvesting Attack Recognition | <a href="https://github.com/samgarfoot/Phishing-Campaign/tree/main">Phishing Campaign</a>|
 | Python Programming / Scripting | <a href="https://github.com/samgarfoot/Coding-Projects/tree/main">Coding Projects</a>|
