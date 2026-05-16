@@ -21,6 +21,10 @@ My journey in IT service management has given me a deep understanding of how tec
 | Phishing Analysis | <a href="https://github.com/samgarfoot/Email-Threat-Analysis-Project/tree/main">Email Threat Analysis Project</a>|
 | Credential Harvesting Attack Recognition | <a href="https://github.com/samgarfoot/Phishing-Campaign/tree/main">Phishing Campaign</a>|
 | Python Programming / Scripting | <a href="https://github.com/samgarfoot/Coding-Projects/tree/main">Coding Projects</a>|
+| AWS Security Auditing & Compliance Reporting | <a href="https://github.com/samgarfoot/aws-security-auditor">AWS Security Auditor</a>|
+| CIS & NIST Framework Mapping | <a href="https://github.com/samgarfoot/aws-security-auditor">AWS Security Auditor</a>|
+| Automated Alert & Escalation Workflows | <a href="https://github.com/samgarfoot/aws-security-auditor">AWS Security Auditor</a>|
+| Security Automation & Cron Scheduling | <a href="https://github.com/samgarfoot/aws-security-auditor">AWS Security Auditor</a>|
 
 ## Tools
 
@@ -44,9 +48,9 @@ My journey in IT service management has given me a deep understanding of how tec
 
 <a href="https://github.com/samgarfoot/aws-hybrid-infrastructure-lab" target="_blank"><img src="https://img.shields.io/badge/-Elastic_Stack-005571?&style=for-the-badge&logo=elastic&logoColor=white" /></a>&nbsp;<a href="https://github.com/samgarfoot/aws-hybrid-infrastructure-lab" target="_blank"><img src="https://img.shields.io/badge/-Kibana-005571?&style=for-the-badge&logo=kibana&logoColor=white" /></a>&nbsp;<a href="https://github.com/samgarfoot/aws-hybrid-infrastructure-lab" target="_blank"><img src="https://img.shields.io/badge/-CloudWatch-FF9900?&style=for-the-badge&logo=amazonaws&logoColor=white" /></a>&nbsp;<a href="https://github.com/samgarfoot/Home-Lab" target="_blank"><img src="https://img.shields.io/badge/-Splunk-FF6600?&style=for-the-badge&logo=splunk&logoColor=white" /></a>&nbsp;<a href="https://github.com/samgarfoot/Email-Threat-Analysis-Project/tree/main" target="_blank"><img src="https://img.shields.io/badge/-Whois-FFA500?&style=for-the-badge&logoColor=white" /></a>&nbsp;<a href="https://github.com/samgarfoot/Email-Threat-Analysis-Project/tree/main" target="_blank"><img src="https://img.shields.io/badge/-ConvertCSV-ffffff?&style=for-the-badge&logoColor=000000" /></a>&nbsp;<a href="https://github.com/samgarfoot/Email-Threat-Analysis-Project/tree/main" target="_blank"><img src="https://img.shields.io/badge/-Message_Header_Toolbox-006400?&style=for-the-badge&logoColor=white" /></a>
 
-### Automation
+### Automation & Security Tooling
 
-<a href="https://github.com/samgarfoot/aws-hybrid-infrastructure-lab" target="_blank"><img src="https://img.shields.io/badge/-N8N-EA4B71?&style=for-the-badge&logo=n8n&logoColor=white" /></a>
+<a href="https://github.com/samgarfoot/aws-hybrid-infrastructure-lab" target="_blank"><img src="https://img.shields.io/badge/-N8N-EA4B71?&style=for-the-badge&logo=n8n&logoColor=white" /></a>&nbsp;<a href="https://github.com/samgarfoot/aws-security-auditor" target="_blank"><img src="https://img.shields.io/badge/-AWS_Security_Auditor-232F3E?&style=for-the-badge&logo=amazonaws&logoColor=white" /></a>
 
 ### Programming Languages
 
@@ -58,9 +62,10 @@ My journey in IT service management has given me a deep understanding of how tec
 
 ## Projects
 
-- AWS Hybrid Infrastructure Lab — VPC, Terraform IaC, Security Hardening, SIEM
-- Virtual Home Lab — Windows 11 & Kali Linux environment
-- Cyber Security Monitoring & Incident Analysis Lab — attack simulation and CIS hardening
-- Email Threat Analysis Project
-- Phishing Campaign
-- Python Projects
+- <a href="https://github.com/samgarfoot/aws-security-auditor">AWS Security Auditor</a> — Python tool auditing AWS environments against CIS Controls and NIST CSF, with automated alerting, escalation workflows, compliance reporting, and cron scheduling
+- <a href="https://github.com/samgarfoot/aws-hybrid-infrastructure-lab">AWS Hybrid Infrastructure Lab</a> — VPC, Terraform IaC, Security Hardening, SIEM
+- <a href="https://github.com/samgarfoot/Home-Lab">Virtual Home Lab</a> — Windows 11 & Kali Linux environment
+- <a href="https://github.com/samgarfoot/Cyber-Security-Monitoring-Incident-Analysis-Lab">Cyber Security Monitoring & Incident Analysis Lab</a> — attack simulation and CIS hardening
+- <a href="https://github.com/samgarfoot/Email-Threat-Analysis-Project/tree/main">Email Threat Analysis Project</a>
+- <a href="https://github.com/samgarfoot/Phishing-Campaign/tree/main">Phishing Campaign</a>
+- <a href="https://github.com/samgarfoot/Coding-Projects/tree/main">Python Projects</a>
