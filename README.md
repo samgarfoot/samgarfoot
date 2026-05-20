@@ -32,6 +32,14 @@ My journey in IT service management has given me a deep understanding of how tec
 | SOAR Playbook Automation (Azure Logic Apps) | <a href="https://github.com/samgarfoot/azure-soc-lab">Azure SOC Lab</a>|
 | Windows Audit Policy Hardening | <a href="https://github.com/samgarfoot/azure-soc-lab">Azure SOC Lab</a>|
 | Cloud Identity Protection (Entra ID) | <a href="https://github.com/samgarfoot/azure-soc-lab">Azure SOC Lab</a>|
+| Azure VNet Design & Subnet Segmentation | <a href="https://github.com/samgarfoot/azure-infrastructure-lab">Azure Infrastructure Lab</a>|
+| Network Security Group Configuration | <a href="https://github.com/samgarfoot/azure-infrastructure-lab">Azure Infrastructure Lab</a>|
+| Azure Bastion — Secure Remote Access | <a href="https://github.com/samgarfoot/azure-infrastructure-lab">Azure Infrastructure Lab</a>|
+| NAT Gateway & Outbound Internet Control | <a href="https://github.com/samgarfoot/azure-infrastructure-lab">Azure Infrastructure Lab</a>|
+| Azure Container Instances | <a href="https://github.com/samgarfoot/azure-infrastructure-lab">Azure Infrastructure Lab</a>|
+| Jump Box Architecture | <a href="https://github.com/samgarfoot/azure-infrastructure-lab">Azure Infrastructure Lab</a>|
+| RBAC & Least Privilege Access Control | <a href="https://github.com/samgarfoot/azure-infrastructure-lab">Azure Infrastructure Lab</a>|
+| Azure Policy & Governance | <a href="https://github.com/samgarfoot/azure-infrastructure-lab">Azure Infrastructure Lab</a>|
 
 ## Tools
 
@@ -45,11 +53,11 @@ My journey in IT service management has given me a deep understanding of how tec
 
 ### Network
 
-<a href="https://github.com/samgarfoot/Home-Lab" target="_blank"><img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=wireshark&logoColor=white" /></a>&nbsp;<a href="https://github.com/samgarfoot/Home-Lab" target="_blank"><img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=windows&logoColor=white" /></a>&nbsp;<a href="https://github.com/samgarfoot/Home-Lab" target="_blank"><img src="https://img.shields.io/badge/-Kali_Linux-000000?&style=for-the-badge&logo=kali-linux&logoColor=white" /></a>&nbsp;<a href="https://github.com/samgarfoot/Kali-Linux/tree/main" target="_blank"><img src="https://img.shields.io/badge/-OpenVPN-FF6A00?&style=for-the-badge&logo=openvpn&logoColor=white" /></a>
+<a href="https://github.com/samgarfoot/Home-Lab" target="_blank"><img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=wireshark&logoColor=white" /></a>&nbsp;<a href="https://github.com/samgarfoot/Home-Lab" target="_blank"><img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=wireshark&logoColor=white" /></a>&nbsp;<a href="https://github.com/samgarfoot/Home-Lab" target="_blank"><img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=windows&logoColor=white" /></a>&nbsp;<a href="https://github.com/samgarfoot/Home-Lab" target="_blank"><img src="https://img.shields.io/badge/-Kali_Linux-000000?&style=for-the-badge&logo=kali-linux&logoColor=white" /></a>&nbsp;<a href="https://github.com/samgarfoot/Kali-Linux/tree/main" target="_blank"><img src="https://img.shields.io/badge/-OpenVPN-FF6A00?&style=for-the-badge&logo=openvpn&logoColor=white" /></a>&nbsp;<a href="https://github.com/samgarfoot/azure-infrastructure-lab" target="_blank"><img src="https://img.shields.io/badge/-Azure_VNet-0078D4?&style=for-the-badge&logo=microsoftazure&logoColor=white" /></a>&nbsp;<a href="https://github.com/samgarfoot/azure-infrastructure-lab" target="_blank"><img src="https://img.shields.io/badge/-NSG-0078D4?&style=for-the-badge&logo=microsoftazure&logoColor=white" /></a>
 
 ### Offensive
 
-<a href="https://github.com/samgarfoot/Phishing-Campaign/tree=main" target="_blank"><img src="https://img.shields.io/badge/-Zphisher-4CAF50?&style=for-the-badge&logo=zap&logoColor=white" /></a>&nbsp;<a href="https://nmap.org/" target="_blank"><img src="https://img.shields.io/badge/-Nmap-4CAF50?&style=for-the-badge&logo=gnometerminal&logoColor=white" /></a>
+<a href="https://github.com/samgarfoot/Phishing-Campaign/tree/main" target="_blank"><img src="https://img.shields.io/badge/-Zphisher-4CAF50?&style=for-the-badge&logo=zap&logoColor=white" /></a>&nbsp;<a href="https://nmap.org/" target="_blank"><img src="https://img.shields.io/badge/-Nmap-4CAF50?&style=for-the-badge&logo=gnometerminal&logoColor=white" /></a>
 
 ### Defensive
 
@@ -69,11 +77,13 @@ My journey in IT service management has given me a deep understanding of how tec
 
 ## Projects
 
+- <a href="https://github.com/samgarfoot/azure-infrastructure-lab">Azure Infrastructure Lab</a> — Multi-subnet VNet architecture, NSGs, Azure Bastion, NAT Gateway, Container Instances, jump box design, RBAC, and Azure Policy governance aligned to AZ-104 exam objectives
 - <a href="https://github.com/samgarfoot/azure-soc-lab">Azure SOC Lab</a> — Microsoft Sentinel SIEM deployment, KQL detection engineering, MITRE ATT&CK mapped analytics rules, SOAR playbook automation, incident response workflow, and Entra ID Protection integration on Azure
 - <a href="https://github.com/samgarfoot/aws-security-auditor">AWS Security Auditor</a> — Python tool auditing AWS environments against CIS Controls and NIST CSF, with automated alerting, escalation workflows, compliance reporting, and cron scheduling
 - <a href="https://github.com/samgarfoot/aws-hybrid-infrastructure-lab">AWS Hybrid Infrastructure Lab</a> — VPC, Terraform IaC, Security Hardening, SIEM
 - <a href="https://github.com/samgarfoot/Home-Lab">Virtual Home Lab</a> — Windows 11 & Kali Linux environment
-- <a href="https://github.com/samgarfoot/Cyber-Security-Monitoring-Incident-Analysis-Lab">Cyber Security Monitoring & Incident Analysis Lab</a> — attack simulation and CIS hardening
+- <a href="https://github.com/samgarfoot/Cyber-Security-Monitoring-Incident-Analysis-Lab">Cyber Security Monitoring & Incident Analysis Lab</a> — attack simulation and
+CIS hardening
 - <a href="https://github.com/samgarfoot/Email-Threat-Analysis-Project/tree/main">Email Threat Analysis Project</a>
 - <a href="https://github.com/samgarfoot/Phishing-Campaign/tree/main">Phishing Campaign</a>
 - <a href="https://github.com/samgarfoot/Coding-Projects/tree/main">Python Projects</a>
